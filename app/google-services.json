@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "560330195283",
+    "firebase_url": "https://ridesharing-6468c-default-rtdb.firebaseio.com",
+    "project_id": "ridesharing-6468c",
+    "storage_bucket": "ridesharing-6468c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560330195283:android:4611c811f64a5a12b361a6",
+        "android_client_info": {
+          "package_name": "com.app.treo.ridesharingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560330195283-cd3bpo8qrra8794cfs1uj6dgq9d3pquc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.treo.ridesharingapp",
+            "certificate_hash": "9553f5bebee75acbe8bf069d500f7789345eef76"
+          }
+        },
+        {
+          "client_id": "560330195283-mpu5qnj830n72r8a2fku9cm0pmak2jug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOm2Pz4uYYYubop8QmIX3cE3CscGCrFAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560330195283-mpu5qnj830n72r8a2fku9cm0pmak2jug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
